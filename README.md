@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # music_player
 
 A simple Flutter music player application.
@@ -6,3 +7,7 @@ A simple Flutter music player application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+=======
+# vigilant-sniffle
+A sniffle that is very vigilant
+>>>>>>> origin/master
